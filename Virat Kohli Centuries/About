@@ -1,0 +1,12 @@
+Virat Kohli is an Indian Cricketer and Former Indian team captain. 
+This dataset contains details about his all centuries. There are two separate files for international and domestic centuries.
+The dataset attempts to answer questions like:
+What is the total number of centuries Kohli has scored according to the formats
+What is his average strike rate
+His lowest and highest score, batting average and dot ball percentage
+What is his optimal batting position 
+The country wise classification of his centuries
+His IPL Performance
+Which Venue and Nation he performs the best at?
+How is his home vs away performance
+What is the correlation between Kohli's performance and results for INDIAN Cricket team?
