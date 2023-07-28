@@ -1,4 +1,11 @@
-# Power-BI
-This repo contains all the dashboards and reports created by me during the process of learning power BI and it also contains the learning material and framework that I used for assistance while learning, I would encourage you to do the same to shorten your learning curve.
-One of the easiest way to learn power BI is to simple learn by doing
-If you are someone who is an intermediate in MS excel and has a basic understanding of what charts or visuals you would like to create to represent your goal metrics, Power BI learn would not be that difficult for you
+## "Power BI Learning Repository 📊"
+
+Welcome to my Power BI learning repository! Here, you'll find a collection of dashboards and reports I created during my journey of mastering Power BI. This repository contains not only the dashboards but also the learning materials and frameworks that assisted me during the process. Feel free to explore and use them to enhance your own learning experience and shorten your learning curve.
+
+### Inside this repository:
+
+    Interactive Dashboards: Explore a diverse range of interactive and insightful dashboards that demonstrate my proficiency in Power BI. Each dashboard represents real-world scenarios and showcases the potential of data visualization.
+
+    Learning Materials: Find a wealth of valuable resources, including tutorials and notes, that I gathered while learning Power BI. These materials were instrumental in developing my skills and understanding.
+
+Join me in learning Power BI, and together, we can harness the power of data to create impactful visualizations! 🚀📈
