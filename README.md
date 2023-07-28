@@ -4,8 +4,8 @@ Welcome to my Power BI learning repository! Here, you'll find a collection of da
 
 ### Inside this repository:
 
-    Interactive Dashboards: Explore a diverse range of interactive and insightful dashboards that demonstrate my proficiency in Power BI. Each dashboard represents real-world scenarios and showcases the potential of data visualization.
+*Interactive Dashboards*: Explore a diverse range of interactive and insightful dashboards that demonstrate my proficiency in Power BI. Each dashboard represents real-world scenarios and showcases the potential of data visualization.
 
-    Learning Materials: Find a wealth of valuable resources, including tutorials and notes, that I gathered while learning Power BI. These materials were instrumental in developing my skills and understanding.
+*Learning Materials*: Find a wealth of valuable resources, including tutorials and notes, that I gathered while learning Power BI. These materials were instrumental in developing my skills and understanding.
 
 Join me in learning Power BI, and together, we can harness the power of data to create impactful visualizations! 🚀📈
