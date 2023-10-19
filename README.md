@@ -9,3 +9,5 @@ Welcome to my Power BI learning repository! Here, you'll find a collection of da
 *Learning Materials*: Find a wealth of valuable resources, including tutorials and notes, that I gathered while learning Power BI. These materials were instrumental in developing my skills and understanding.
 
 Join me in learning Power BI, and together, we can harness the power of data to create impactful visualizations! 🚀📈
+
+I would love to see you here
