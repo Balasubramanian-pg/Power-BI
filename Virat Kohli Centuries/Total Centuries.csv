@@ -1,75 +1,75 @@
-﻿Century Number,Score,Status,Opposition,Batting Order,Innings,Strike Rate,Venue,City,Home/Away,Country,Date,Result,Format,Man Of The Match,Captain
-1,107,Out,Sri Lanka,4,2,93.85,Eden Gardens, Kolkata,Home,India,24-12-09,Won,ODI,No,No
-2,102,Not Out,Bangladesh,3,2,107.37,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,11-01-10,Won,ODI,Yes,No
-3,118,Out,Australia,3,2,97.52,APCA-VDCA Stadium, Visakhapatnam,Home,India,20-10-10,Won,ODI,Yes,No
-4,105,Out,New Zealand,3,1,100.96,Nehru Stadium, Guwahati,Home,India,28-11-10,Won,ODI,Yes,No
-5,100,Not Out,Bangladesh,4,1,120.48,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,19-02-11,Won,ODI,No,No
-6,107,Out,England,4,1,115.05,Sophia Gardens, Cardiff,Away,England,16-09-11,Lost (D/L),ODI,No,No
-7,112,Not Out,England,4,2,114.28,Feroz Shah Kotla Ground, Delhi,Home,India,17-10-11,Won,ODI,Yes,No
-8,117,Out,West Indies,4,2,95.12,APCA-VDCA Stadium, Visakhapatnam,Home,India,02-12-11,Won,ODI,Yes,No
-9,116,Out,Australia,6,2,,Adelaide Oval, Adelaide,Away,Australia,24-01-12,Lost,Test,No,No
-10,133,Not Out,Sri Lanka,4,2,154.65,Bellerive Oval, Hobart,Away,England,28-02-12,Won,ODI,Yes,No
-11,108,Out,Sri Lanka,3,1,90,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,13-03-12,Won,ODI,Yes,No
-12,183,Out,Pakistan,3,2,123.64,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,18-03-12,Won,ODI,Yes,No
-13,106,Out,Sri Lanka,3,1,93.8,MRIC Stadium, Hambantota,Away,Sri Lanka,21-07-12,Won,ODI,Yes,No
-14,128,Not Out,Sri Lanka,3,2,107.56,R. Premadasa Stadium, Colombo,Away,Sri Lanka,31-07-12,Won,ODI,Yes,No
-15,103,Out,New Zealand,5,2,,M. Chinnaswamy Stadium, Bangalore,Home,India,31-08-12,Won,Test,Yes,No
-16,103,Out,England,5,2,,Vidarbha Cricket Association Stadium, Nagpur,Home,India,13-12-12,Drawn,Test,No,No
-17,107,Out,Australia,5,2,,M. A. Chidambaram Stadium, Chennai,Home,India,22-02-13,Won,Test,No,No
-18,102,Out,West Indies,3,1,122.89,Queen's Park Oval, Port of Spain,Away,West Indies,05-07-13,Won (D/L),ODI,Yes,Yes
-19,115,Out,Zimbabwe,3,2,106.48,Harare Sports Club, Harare,Away,Zimbabwe,24-07-13,Won,ODI,Yes,Yes
-20,100,Not Out,Australia,3,2,192.3,Sawai Mansingh Stadium, Jaipur,Home,India,16-10-13,Won,ODI,No,No
-21,115,Not Out,Australia,3,2,174.24,VCA Stadium, Nagpur,Home,India,30-10-13,Won,ODI,Yes,No
-22,119,Out,South Africa,4,1,,Wanderers Stadium, Johannesburg,Away,South Africa,18-12-13,Drawn,Test,No,No
-23,123,Out,New Zealand,3,2,110.81,McLean Park, Napier,Away,New Zeland,19-01-14,Lost,ODI,No,No
-24,105,Not Out,New Zealand,4,4,,Basin Reserve, Wellington,Away,New Zeland,14-02-14,Drawn,Test,No,No
-25,136,Out,Bangladesh,3,2,111.47,Khan Shaheb Osman Ali Stadium, Fatullah,Away,Bangladesh,26-02-14,Won,ODI,Yes,Yes
-26,127,Out,West Indies,3,1,111.4,HPCA Stadium, Dharamshala,Home,India,17-10-14,Won,ODI,Yes,No
-27,139,Not Out,Sri Lanka,4,2,110.31,JSCA International Stadium, Ranchi,Home,India,16-11-14,Won,ODI,No,Yes
-28,115,Out,Australia,4,2,,Adelaide Oval, Adelaide,Away,Australia,09-12-14,Lost,Test,No,Yes
-29,141,Out,Australia,4,4,,Adelaide Oval, Adelaide,Away,Australia,09-12-14,Lost,Test,No,Yes
-30,169,Out,Australia,4,2,,Melbourne Cricket Ground, Melbourne,Away,Australia,26-12-14,Drawn,Test,No,No
-31,147,Out,Australia,4,2,,Sydney Cricket Ground, Sydney,Away,Australia,06-01-15,Drawn,Test,No,Yes
-32,107,Out,Pakistan,3,1,84.9,Adelaide Oval, Adelaide,Away,Australia,15-02-15,Won,ODI,Yes,No
-33,103,Out,Sri Lanka,4,2,,Galle International Stadium, Galle,Away,Sri Lanka,12-08-15,Lost,Test,No,Yes
-34,138,Out,South Africa,3,1,98.57,M. A. Chidambaram Stadium, Chennai,Home,India,22-10-15,Won,ODI,Yes,No
-35,117,Out,Australia,3,1,100,Melbourne Cricket Ground, Melbourne,Away,Australia,17-01-16,Lost,ODI,No,No
-36,106,Out,Australia,3,2,115.21,Manuka Oval, Canberra,Away,Australia,20-01-16,Lost,ODI,No,No
-37,200,Out,West Indies,4,1,,Sir Vivian Richards Stadium, North Sound,Away,West Indies,21-07-16,Won,Test,No,Yes
-38,211,Out,New Zealand,4,1,,Holkar Stadium, Indore,Home,India,08-10-16,Won,Test,No,Yes
-39,154,Not Out,New Zealand,3,2,114.92,Punjab Cricket Association IS Bindra Stadium, Mohali,Home,India,23-10-16,Won,ODI,Yes,No
-40,167,Out,England,4,1,,ACA-VDCA Cricket Stadium, Visakhapatnam,Home,India,17-11-16,Won,Test,Yes,Yes
-41,235,Out,England,4,2,,Wankhede Stadium, Mumbai,Home,India,08-12-16,Won,Test,Yes,Yes
-42,122,Out,England,3,2,116.19,Maharashtra Cricket Association Stadium, Pune,Home,India,15-01-17,Won,ODI,No,Yes
-43,204,Out,Bangladesh,4,1,,Rajiv Gandhi International Cricket Stadium, Hyderabad,Home,India,09-02-17,Won,Test,Yes,Yes
-44,111,Not Out,West Indies,3,2,96.52,Sabina Park, Kingston,Away,West Indies,06-07-17,Won,ODI,Yes,Yes
-45,103,Not Out,Sri Lanka,4,3,,Galle International Stadium, Galle,Away,Sri Lanka,26-07-17,Won,Test,No,Yes
-46,131,Out,Sri Lanka,3,1,136.45,R. Premadasa Stadium, Colombo,Away,Sri Lanka,31-08-17,Won,ODI,Yes,Yes
-47,110,Not Out,Sri Lanka,3,2,94.82,R. Premadasa Stadium, Colombo,Away,Sri Lanka,03-09-17,Won,ODI,No,Yes
-48,121,Out,New Zealand,3,1,96.8,Wankhede Stadium, Mumbai,Home,India,22-10-17,Lost,ODI,No,Yes
-49,113,Out,New Zealand,3,1,106.6,Green Park Stadium, Kanpur,Home,India,29-10-17,Won,ODI,No,Yes
-50,104,Not Out,Sri Lanka,4,3,,Eden Gardens, Kolkata,Home,India,16-11-17,Drawn,Test,No,Yes
-51,213,Out,Sri Lanka,4,2,,Vidarbha Cricket Association Stadium, Nagpur,Home,India,24-11-17,Won,Test,Yes,Yes
-52,243,Out,Sri Lanka,4,1,,Feroz Shah Kotla Ground, Delhi,Home,India,02-12-17,Drawn,Test,Yes,Yes
-53,153,Out,South Africa,4,2,,SuperSport Park, Centurion,Away,South Africa,13-01-18,Lost,Test,No,Yes
-54,112,Out,South Africa,3,2,94.11,Kingsmead Cricket Ground, Durban,Away,South Africa,01-02-18,Won,ODI,Yes,Yes
-55,160,Not Out,South Africa,3,1,100.62,Newlands Cricket Ground, Cape Town,Away,South Africa,07-02-18,Won,ODI,Yes,Yes
-56,129,Not Out,South Africa,3,2,134.37,SuperSport Park, Centurion,Away,South Africa,16-02-18,Won,ODI,Yes,Yes
-57,149,Out,England,4,2,,Edgbaston Cricket Ground, Birmingham,Away,England,01-08-18,Lost,Test,No,Yes
-58,103,Out,England,4,3,,Trent Bridge, Nottingham,Away,England,18-08-18,Won,Test,Yes,Yes
-59,139,Out,West Indies,4,1,,Saurashtra Cricket Association Stadium, Rajkot,Home,India,04-10-18,Won,Test,No,Yes
-60,140,Out,West Indies,3,2,130.84,ACA Stadium, Guwahati,Home,India,21-10-18,Won,ODI,Yes,Yes
-61,157,Not Out,West Indies,3,1,121.71,ACA-VDCA Cricket Stadium, Visakhapatnam,Home,India,24-10-18,Tied,ODI,Yes,Yes
-62,107,Out,West Indies,3,2,89.91,Maharashtra Cricket Association Stadium, Pune,Home,India,27-10-18,Lost,ODI,No,Yes
-63,123,Out,Australia,4,2,,Perth Stadium, Perth,Away,Australia,14-12-18,Lost,Test,No,Yes
-64,104,Out,Australia,3,2,92.85,Adelaide Oval, Adelaide,Away,Australia,15-01-19,Won,ODI,Yes,Yes
-65,116,Out,Australia,3,1,96.67,Vidarbha Cricket Association Stadium, Nagpur,Home,India,05-03-19,Won,ODI,Yes,Yes
-66,123,Out,Australia,3,2,129.47,JSCA International Stadium, Ranchi,Home,India,08-03-19,Lost,ODI,No,Yes
-67,120,Out,West Indies,3,1,96,Queen's Park Oval, Port of Spain,Away,West Indies,11-08-19,Won,ODI,Yes,Yes
-68,114,Not Out,West Indies,3,2,115.15,Queen's Park Oval, Port of Spain,Away,West Indies,14-08-19,Won,ODI,Yes,Yes
-69,254,Not Out,South Africa,4,1,,Maharashtra Cricket Association Stadium, Pune,Home,India,10-10-19,Won,Test,Yes,Yes
-70,136,Out,Bangladesh,4,2,,Eden Gardens, Kolkata,Home,India,22-11-19,Won,Test,No,Yes
-71,122,Not Out,Afganistan,1,1,200,Dubai International Cricket Stadium,Dubai,Away,Dubai,08-09-22,Won,T20I,Yes,No
-72,113,Out,Bangladesh,3,1,124.17,Zohur Ahmed Chowdhury Stadium,Chittagong,Away,Bangladesh,10-12-22,Won,ODI,No,No
-73,113,Out,Sri Lanka,3,1,129.88,ACA Stadium,Guwahati,Home,India,10-01-23,Won,ODI,Yes,No
-74,166,Not Out,Sri Lanka,3,1,150.9,Greenfiled International Stadium,Thiruvananthapuram,Home,India,15-01-23,Won,ODI,Yes,No
+﻿Century Number,Score,Status,Opposition,Position,Batting Order,Innings,Strike Rate,Venue,City,Home/Away,Country,Date,Result,Format,Man Of The Match,Captain
+1,107,Out,Sri Lanka,Three Down,4,2,93.85,Eden Gardens, Kolkata,Home,India,24-12-09,Won,ODI,No,No
+2,102,Not Out,Bangladesh,One Down,3,2,107.37,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,11-01-10,Won,ODI,Yes,No
+3,118,Out,Australia,One Down,3,2,97.52,APCA-VDCA Stadium, Visakhapatnam,Home,India,20-10-10,Won,ODI,Yes,No
+4,105,Out,New Zealand,One Down,3,1,100.96,Nehru Stadium, Guwahati,Home,India,28-11-10,Won,ODI,Yes,No
+5,100,Not Out,Bangladesh,Three Down,4,1,120.48,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,19-02-11,Won,ODI,No,No
+6,107,Out,England,Three Down,4,1,115.05,Sophia Gardens, Cardiff,Away,England,16-09-11,Lost (D/L),ODI,No,No
+7,112,Not Out,England,Three Down,4,2,114.28,Feroz Shah Kotla Ground, Delhi,Home,India,17-10-11,Won,ODI,Yes,No
+8,117,Out,West Indies,Three Down,4,2,95.12,APCA-VDCA Stadium, Visakhapatnam,Home,India,02-12-11,Won,ODI,Yes,No
+9,116,Out,Australia,Four Down,6,2,121.39,Adelaide Oval, Adelaide,Away,Australia,24-01-12,Lost,Test,No,No
+10,133,Not Out,Sri Lanka,Three Down,4,2,154.65,Bellerive Oval, Hobart,Away,England,28-02-12,Won,ODI,Yes,No
+11,108,Out,Sri Lanka,One Down,3,1,90,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,13-03-12,Won,ODI,Yes,No
+12,183,Out,Pakistan,One Down,3,2,123.64,Sher-e-Bangla Cricket Stadium, Dhaka,Away,Bangladesh,18-03-12,Won,ODI,Yes,No
+13,106,Out,Sri Lanka,One Down,3,1,93.8,MRIC Stadium, Hambantota,Away,Sri Lanka,21-07-12,Won,ODI,Yes,No
+14,128,Not Out,Sri Lanka,One Down,3,2,107.56,R. Premadasa Stadium, Colombo,Away,Sri Lanka,31-07-12,Won,ODI,Yes,No
+15,103,Out,New Zealand,Three Down,5,2,76.75,M. Chinnaswamy Stadium, Bangalore,Home,India,31-08-12,Won,Test,Yes,No
+16,103,Out,England,Three Down,5,2,95.48,Vidarbha Cricket Association Stadium, Nagpur,Home,India,13-12-12,Drawn,Test,No,No
+17,107,Out,Australia,Three Down,5,2,60.25,M. A. Chidambaram Stadium, Chennai,Home,India,22-02-13,Won,Test,No,No
+18,102,Out,West Indies,One Down,3,1,122.89,Queen's Park Oval, Port of Spain,Away,West Indies,05-07-13,Won (D/L),ODI,Yes,Yes
+19,115,Out,Zimbabwe,One Down,3,2,106.48,Harare Sports Club, Harare,Away,Zimbabwe,24-07-13,Won,ODI,Yes,Yes
+20,100,Not Out,Australia,One Down,3,2,192.3,Sawai Mansingh Stadium, Jaipur,Home,India,16-10-13,Won,ODI,No,No
+21,115,Not Out,Australia,One Down,3,2,174.24,VCA Stadium, Nagpur,Home,India,30-10-13,Won,ODI,Yes,No
+22,119,Out,South Africa,Three Down,4,1,149.46,Wanderers Stadium, Johannesburg,Away,South Africa,18-12-13,Drawn,Test,No,No
+23,123,Out,New Zealand,One Down,3,2,110.81,McLean Park, Napier,Away,New Zeland,19-01-14,Lost,ODI,No,No
+24,105,Not Out,New Zealand,Three Down,4,4,89.49,Basin Reserve, Wellington,Away,New Zeland,14-02-14,Drawn,Test,No,No
+25,136,Out,Bangladesh,One Down,3,2,111.47,Khan Shaheb Osman Ali Stadium, Fatullah,Away,Bangladesh,26-02-14,Won,ODI,Yes,Yes
+26,127,Out,West Indies,One Down,3,1,111.4,HPCA Stadium, Dharamshala,Home,India,17-10-14,Won,ODI,Yes,No
+27,139,Not Out,Sri Lanka,Three Down,4,2,110.31,JSCA International Stadium, Ranchi,Home,India,16-11-14,Won,ODI,No,Yes
+28,115,Out,Australia,Three Down,4,2,130.83,Adelaide Oval, Adelaide,Away,Australia,09-12-14,Lost,Test,No,Yes
+29,141,Out,Australia,Three Down,4,4,153.69,Adelaide Oval, Adelaide,Away,Australia,09-12-14,Lost,Test,No,Yes
+30,169,Out,Australia,Three Down,4,2,163.28,Melbourne Cricket Ground, Melbourne,Away,Australia,26-12-14,Drawn,Test,No,No
+31,147,Out,Australia,Three Down,4,2,79.87,Sydney Cricket Ground, Sydney,Away,Australia,06-01-15,Drawn,Test,No,Yes
+32,107,Out,Pakistan,One Down,3,1,84.9,Adelaide Oval, Adelaide,Away,Australia,15-02-15,Won,ODI,Yes,No
+33,103,Out,Sri Lanka,Three Down,4,2,97.91,Galle International Stadium, Galle,Away,Sri Lanka,12-08-15,Lost,Test,No,Yes
+34,138,Out,South Africa,One Down,3,1,98.57,M. A. Chidambaram Stadium, Chennai,Home,India,22-10-15,Won,ODI,Yes,No
+35,117,Out,Australia,One Down,3,1,100,Melbourne Cricket Ground, Melbourne,Away,Australia,17-01-16,Lost,ODI,No,No
+36,106,Out,Australia,One Down,3,2,115.21,Manuka Oval, Canberra,Away,Australia,20-01-16,Lost,ODI,No,No
+37,200,Out,West Indies,Three Down,4,1,113.35,Sir Vivian Richards Stadium, North Sound,Away,West Indies,21-07-16,Won,Test,No,Yes
+38,211,Out,New Zealand,Three Down,4,1,57.72,Holkar Stadium, Indore,Home,India,08-10-16,Won,Test,No,Yes
+39,154,Not Out,New Zealand,One Down,3,2,114.92,Punjab Cricket Association IS Bindra Stadium, Mohali,Home,India,23-10-16,Won,ODI,Yes,No
+40,167,Out,England,Three Down,4,1,115.23,ACA-VDCA Cricket Stadium, Visakhapatnam,Home,India,17-11-16,Won,Test,Yes,Yes
+41,235,Out,England,Three Down,4,2,117.26,Wankhede Stadium, Mumbai,Home,India,08-12-16,Won,Test,Yes,Yes
+42,122,Out,England,One Down,3,2,116.19,Maharashtra Cricket Association Stadium, Pune,Home,India,15-01-17,Won,ODI,No,Yes
+43,204,Out,Bangladesh,Three Down,4,1,67.34,Rajiv Gandhi International Cricket Stadium, Hyderabad,Home,India,09-02-17,Won,Test,Yes,Yes
+44,111,Not Out,West Indies,One Down,3,2,96.52,Sabina Park, Kingston,Away,West Indies,06-07-17,Won,ODI,Yes,Yes
+45,103,Not Out,Sri Lanka,Three Down,4,3,107.45,Galle International Stadium, Galle,Away,Sri Lanka,26-07-17,Won,Test,No,Yes
+46,131,Out,Sri Lanka,One Down,3,1,136.45,R. Premadasa Stadium, Colombo,Away,Sri Lanka,31-08-17,Won,ODI,Yes,Yes
+47,110,Not Out,Sri Lanka,One Down,3,2,94.82,R. Premadasa Stadium, Colombo,Away,Sri Lanka,03-09-17,Won,ODI,No,Yes
+48,121,Out,New Zealand,One Down,3,1,96.8,Wankhede Stadium, Mumbai,Home,India,22-10-17,Lost,ODI,No,Yes
+49,113,Out,New Zealand,One Down,3,1,106.6,Green Park Stadium, Kanpur,Home,India,29-10-17,Won,ODI,No,Yes
+50,104,Not Out,Sri Lanka,Three Down,4,3,92.7,Eden Gardens, Kolkata,Home,India,16-11-17,Drawn,Test,No,Yes
+51,213,Out,Sri Lanka,Three Down,4,2,76.64,Vidarbha Cricket Association Stadium, Nagpur,Home,India,24-11-17,Won,Test,Yes,Yes
+52,243,Out,Sri Lanka,Three Down,4,1,104.65,Feroz Shah Kotla Ground, Delhi,Home,India,02-12-17,Drawn,Test,Yes,Yes
+53,153,Out,South Africa,Three Down,4,2,62.9,SuperSport Park, Centurion,Away,South Africa,13-01-18,Lost,Test,No,Yes
+54,112,Out,South Africa,One Down,3,2,94.11,Kingsmead Cricket Ground, Durban,Away,South Africa,01-02-18,Won,ODI,Yes,Yes
+55,160,Not Out,South Africa,One Down,3,1,100.62,Newlands Cricket Ground, Cape Town,Away,South Africa,07-02-18,Won,ODI,Yes,Yes
+56,129,Not Out,South Africa,One Down,3,2,134.37,SuperSport Park, Centurion,Away,South Africa,16-02-18,Won,ODI,Yes,Yes
+57,149,Out,England,Three Down,4,2,53.59,Edgbaston Cricket Ground, Birmingham,Away,England,01-08-18,Lost,Test,No,Yes
+58,103,Out,England,Three Down,4,3,79.6,Trent Bridge, Nottingham,Away,England,18-08-18,Won,Test,Yes,Yes
+59,139,Out,West Indies,Three Down,4,1,73.74,Saurashtra Cricket Association Stadium, Rajkot,Home,India,04-10-18,Won,Test,No,Yes
+60,140,Out,West Indies,One Down,3,2,130.84,ACA Stadium, Guwahati,Home,India,21-10-18,Won,ODI,Yes,Yes
+61,157,Not Out,West Indies,One Down,3,1,121.71,ACA-VDCA Cricket Stadium, Visakhapatnam,Home,India,24-10-18,Tied,ODI,Yes,Yes
+62,107,Out,West Indies,One Down,3,2,89.91,Maharashtra Cricket Association Stadium, Pune,Home,India,27-10-18,Lost,ODI,No,Yes
+63,123,Out,Australia,Three Down,4,2,63.88,Perth Stadium, Perth,Away,Australia,14-12-18,Lost,Test,No,Yes
+64,104,Out,Australia,One Down,3,2,92.85,Adelaide Oval, Adelaide,Away,Australia,15-01-19,Won,ODI,Yes,Yes
+65,116,Out,Australia,One Down,3,1,96.67,Vidarbha Cricket Association Stadium, Nagpur,Home,India,05-03-19,Won,ODI,Yes,Yes
+66,123,Out,Australia,One Down,3,2,129.47,JSCA International Stadium, Ranchi,Home,India,08-03-19,Lost,ODI,No,Yes
+67,120,Out,West Indies,One Down,3,1,96,Queen's Park Oval, Port of Spain,Away,West Indies,11-08-19,Won,ODI,Yes,Yes
+68,114,Not Out,West Indies,One Down,3,2,115.15,Queen's Park Oval, Port of Spain,Away,West Indies,14-08-19,Won,ODI,Yes,Yes
+69,254,Not Out,South Africa,Three Down,4,1,77.69,Maharashtra Cricket Association Stadium, Pune,Home,India,10-10-19,Won,Test,Yes,Yes
+70,136,Out,Bangladesh,Three Down,4,2,54.31,Eden Gardens, Kolkata,Home,India,22-11-19,Won,Test,No,Yes
+71,122,Not Out,Afganistan,Opener,1,1,200,Dubai International Cricket Stadium,Dubai,Away,Dubai,08-09-22,Won,T20I,Yes,No
+72,113,Out,Bangladesh,One Down,3,1,124.17,Zohur Ahmed Chowdhury Stadium,Chittagong,Away,Bangladesh,10-12-22,Won,ODI,No,No
+73,113,Out,Sri Lanka,One Down,3,1,129.88,ACA Stadium,Guwahati,Home,India,10-01-23,Won,ODI,Yes,No
+74,166,Not Out,Sri Lanka,One Down,3,1,150.9,Greenfiled International Stadium,Thiruvananthapuram,Home,India,15-01-23,Won,ODI,Yes,No
