@@ -120,5 +120,3 @@ Take inspiration from 30+ Power BI project ideas to build your portfolio, sharpe
 I’m excited to have you here! Explore these project ideas, dive into the dashboards, and use the learning materials to deepen your understanding of Power BI. Feel free to reach out if you have any questions or feedback. Let’s continue to unlock the power of data and create impactful visualizations! ✨
 
 ---
-
-This updated **README** is designed to be clear, concise, and engaging, making it easier for users to navigate and access the resources and project ideas you’ve curated.
